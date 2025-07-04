@@ -1,4 +1,10 @@
 ## Hi there 👋
+## 🛠 Skills & Technologies
+
+**Languages:** Python  
+**Tools:** Git, GitHub, Figma, VS Code, Wordpress  
+**Other:** Web Design, Data Analytics, Project Management
+
 
 <!--
 **sdwebdev619/sdwebdev619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
